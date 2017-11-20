@@ -34,6 +34,7 @@ Design an user interface to input web technology buzzwords and then generate an 
 
 ## Bonuses
 - Add easter egg with the `Konami` code.
+- Support emojis :unicorn:
 
 ## Sample responses
 
